@@ -24,7 +24,7 @@ The model demonstrates consistent loss reduction and successful adaptation to me
 
 ## Reproducibility
 The project is fully reproducible via the provided Google Colab notebook. 
-[Click here to run the notebook on Colab](INSERT_YOUR_COLAB_LINK_HERE)
+[Click here to run the notebook on Colab](https://colab.research.google.com/drive/1O_vGMJ1MJm-SG93NuZmil7KVMQikK0FY?usp=sharing)
 
 ## Ethical Considerations
-This model is designed to assist in healthcare settings. We recognize the risks of misinformation in medical AI and prioritize accuracy, linguistic inclusivity, and bias mitigation for the local populations in the Kampala-Entebbe corridor.
+This model is designed to assist in healthcare settings. We recognize the risks of misinformation in medical AI and prioritize accuracy, linguistic inclusivity, and bias mitigation for the local populations around the world.
