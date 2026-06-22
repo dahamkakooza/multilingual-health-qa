@@ -1,0 +1,19 @@
+# Core Machine Learning & NLP
+transformers>=5.10.2
+datasets
+torch
+accelerate
+bitsandbytes
+sentencepiece
+
+# Data Handling & Analysis
+pandas
+numpy
+json5
+
+# Visualization
+matplotlib
+seaborn
+
+# Development & Utility
+ipython
